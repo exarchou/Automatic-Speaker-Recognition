@@ -435,7 +435,7 @@ In the results paragraph, a table is presented that contains for each point of t
 * Vasilios Akritas  [vakritas@ece.auth.gr]() 
 * [Konstantinos Diamantis](https://github.com/konstantd)
 
-* [Dimitrios-Marios Exarhou](https://github.com/exarchou) 
+* [Dimitrios-Marios Exarchou](https://github.com/exarchou) 
 
 * [Lazaridis Nikos](https://github.com/nlazaridi) 
 * [Chelakis Konstantinos Marios](https://github.com/chelakis)  
